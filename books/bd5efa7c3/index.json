@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-22T00:25:15+08:00",
- "sig": "dcb2232226d5",
+ "updatedAt": "2026-10-22T00:44:00+08:00",
+ "sig": "83d6ad291d39",
  "chapters": [
   {
    "n": 1,
@@ -15,64 +15,64 @@
    "n": 2,
    "title": "虚羽残帧",
    "file": "books/bd5efa7c3/chapters/002.md",
-   "hash": "f1a5e66f4b96",
-   "chars": 4397
+   "hash": "2f8ed0504234",
+   "chars": 4961
   },
   {
    "n": 3,
    "title": "听雨簃",
    "file": "books/bd5efa7c3/chapters/003.md",
-   "hash": "d164690886de",
-   "chars": 4212
+   "hash": "341e65ee9fd6",
+   "chars": 5035
   },
   {
    "n": 4,
    "title": "班长的烟",
    "file": "books/bd5efa7c3/chapters/004.md",
-   "hash": "388a93928aef",
-   "chars": 4263
+   "hash": "51bfcf09bd81",
+   "chars": 4981
   },
   {
    "n": 5,
    "title": "冷却十二时",
    "file": "books/bd5efa7c3/chapters/005.md",
-   "hash": "d83348b8f044",
-   "chars": 3954
+   "hash": "c006638bdb53",
+   "chars": 4882
   },
   {
    "n": 6,
    "title": "顾衡砸场",
    "file": "books/bd5efa7c3/chapters/006.md",
-   "hash": "2fdf7e680746",
-   "chars": 4901
+   "hash": "a5707e99c3bc",
+   "chars": 4915
   },
   {
    "n": 7,
    "title": "不打的打",
    "file": "books/bd5efa7c3/chapters/007.md",
-   "hash": "135b360780c4",
-   "chars": 4685
+   "hash": "15c2714e0784",
+   "chars": 4941
   },
   {
    "n": 8,
    "title": "灰羽局",
    "file": "books/bd5efa7c3/chapters/008.md",
-   "hash": "56cf1a91a0c7",
-   "chars": 4770
+   "hash": "c6bc2ae71bd1",
+   "chars": 4889
   },
   {
    "n": 9,
    "title": "先活着",
    "file": "books/bd5efa7c3/chapters/009.md",
-   "hash": "a0afc011e86e",
-   "chars": 4947
+   "hash": "bb81d9728f30",
+   "chars": 4863
   },
   {
    "n": 10,
    "title": "羽针",
    "file": "books/bd5efa7c3/chapters/010.md",
-   "hash": "9a0a9981b36c",
-   "chars": 5109
+   "hash": "b78e8fa1bbf1",
+   "chars": 4951
   }
  ]
 }
