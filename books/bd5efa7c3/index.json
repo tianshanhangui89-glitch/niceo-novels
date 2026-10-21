@@ -1,15 +1,15 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-21T23:09:53+08:00",
- "sig": "baf2bd5b1daa",
+ "updatedAt": "2026-10-21T23:33:59+08:00",
+ "sig": "d2f1c21e06e1",
  "chapters": [
   {
    "n": 1,
    "title": "空拍三秒",
    "file": "books/bd5efa7c3/chapters/001.md",
-   "hash": "12f99fbaf0df",
-   "chars": 4545
+   "hash": "1065b276c1a1",
+   "chars": 4845
   },
   {
    "n": 2,
