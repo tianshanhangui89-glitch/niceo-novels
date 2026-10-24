@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-24T10:02:22+08:00",
- "sig": "203f911ae0c6",
+ "updatedAt": "2026-10-24T10:18:25+08:00",
+ "sig": "69cf0b4d7283",
  "chapters": [
   {
    "n": 1,
@@ -213,6 +213,76 @@
    "file": "books/bd5efa7c3/chapters/030.md",
    "hash": "5a91753c7d59",
    "chars": 5536
+  },
+  {
+   "n": 31,
+   "title": "猎令上门",
+   "file": "books/bd5efa7c3/chapters/031.md",
+   "hash": "44ecedf2258d",
+   "chars": 5582
+  },
+  {
+   "n": 32,
+   "title": "烟雾",
+   "file": "books/bd5efa7c3/chapters/032.md",
+   "hash": "4cf82f0beee4",
+   "chars": 5490
+  },
+  {
+   "n": 33,
+   "title": "迁巢",
+   "file": "books/bd5efa7c3/chapters/033.md",
+   "hash": "3229aadafe2d",
+   "chars": 5624
+  },
+  {
+   "n": 34,
+   "title": "站队",
+   "file": "books/bd5efa7c3/chapters/034.md",
+   "hash": "d5dd2358ff42",
+   "chars": 5546
+  },
+  {
+   "n": 35,
+   "title": "小阵",
+   "file": "books/bd5efa7c3/chapters/035.md",
+   "hash": "be52020c1ed7",
+   "chars": 5555
+  },
+  {
+   "n": 36,
+   "title": "稳弧",
+   "file": "books/bd5efa7c3/chapters/036.md",
+   "hash": "ee5a5a58ae5c",
+   "chars": 5638
+  },
+  {
+   "n": 37,
+   "title": "只卖窗口",
+   "file": "books/bd5efa7c3/chapters/037.md",
+   "hash": "705965a8f2ff",
+   "chars": 5637
+  },
+  {
+   "n": 38,
+   "title": "空床",
+   "file": "books/bd5efa7c3/chapters/038.md",
+   "hash": "de9cb804aca6",
+   "chars": 5656
+  },
+  {
+   "n": 39,
+   "title": "羽化时",
+   "file": "books/bd5efa7c3/chapters/039.md",
+   "hash": "bf78bbb2f364",
+   "chars": 5622
+  },
+  {
+   "n": 40,
+   "title": "免等",
+   "file": "books/bd5efa7c3/chapters/040.md",
+   "hash": "368040dc895b",
+   "chars": 5591
   }
  ]
 }
