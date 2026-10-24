@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-24T16:08:03+08:00",
- "sig": "793a0b69a640",
+ "updatedAt": "2026-10-24T16:19:06+08:00",
+ "sig": "18525a605faa",
  "chapters": [
   {
    "n": 1,
@@ -15,8 +15,8 @@
    "n": 2,
    "title": "虚羽残帧",
    "file": "books/bd5efa7c3/chapters/002.md",
-   "hash": "1cecf844c38d",
-   "chars": 5399
+   "hash": "8ff7b6b56215",
+   "chars": 5485
   },
   {
    "n": 3,
