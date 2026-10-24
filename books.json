@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-25T00:05:51+08:00",
+ "generated": "2026-10-25T00:18:32+08:00",
  "books": [
   {
    "id": "bd5efa7c3",
@@ -9,8 +9,8 @@
    "count": 40,
    "latest": 40,
    "latestTitle": "免等",
-   "updatedAt": "2026-10-25T00:05:51+08:00",
-   "sig": "af4fddd3a1c8"
+   "updatedAt": "2026-10-25T00:18:32+08:00",
+   "sig": "c194372de73e"
   }
  ]
 }
