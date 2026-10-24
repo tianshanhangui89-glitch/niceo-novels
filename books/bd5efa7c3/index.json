@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-22T01:04:32+08:00",
- "sig": "055945112ac0",
+ "updatedAt": "2026-10-24T08:59:49+08:00",
+ "sig": "065d0e1a1d74",
  "chapters": [
   {
    "n": 1,
@@ -15,134 +15,204 @@
    "n": 2,
    "title": "虚羽残帧",
    "file": "books/bd5efa7c3/chapters/002.md",
-   "hash": "2f8ed0504234",
-   "chars": 4961
+   "hash": "0763b18dc351",
+   "chars": 5165
   },
   {
    "n": 3,
    "title": "听雨簃",
    "file": "books/bd5efa7c3/chapters/003.md",
-   "hash": "341e65ee9fd6",
-   "chars": 5035
+   "hash": "5592f8f959fb",
+   "chars": 5204
   },
   {
    "n": 4,
    "title": "班长的烟",
    "file": "books/bd5efa7c3/chapters/004.md",
-   "hash": "51bfcf09bd81",
-   "chars": 4981
+   "hash": "201e6558de33",
+   "chars": 5058
   },
   {
    "n": 5,
    "title": "冷却十二时",
    "file": "books/bd5efa7c3/chapters/005.md",
-   "hash": "c006638bdb53",
-   "chars": 4882
+   "hash": "2edd4227ab4f",
+   "chars": 5023
   },
   {
    "n": 6,
    "title": "顾衡砸场",
    "file": "books/bd5efa7c3/chapters/006.md",
-   "hash": "a5707e99c3bc",
-   "chars": 4915
+   "hash": "4a749a3f08ad",
+   "chars": 5013
   },
   {
    "n": 7,
    "title": "不打的打",
    "file": "books/bd5efa7c3/chapters/007.md",
-   "hash": "15c2714e0784",
-   "chars": 4941
+   "hash": "e8b803b9c505",
+   "chars": 5018
   },
   {
    "n": 8,
    "title": "灰羽局",
    "file": "books/bd5efa7c3/chapters/008.md",
-   "hash": "c6bc2ae71bd1",
-   "chars": 4889
+   "hash": "c91502636a6b",
+   "chars": 4967
   },
   {
    "n": 9,
    "title": "先活着",
    "file": "books/bd5efa7c3/chapters/009.md",
-   "hash": "bb81d9728f30",
-   "chars": 4863
+   "hash": "52dfdc84105a",
+   "chars": 4977
   },
   {
    "n": 10,
    "title": "羽针",
    "file": "books/bd5efa7c3/chapters/010.md",
-   "hash": "b78e8fa1bbf1",
-   "chars": 4951
+   "hash": "a2a5e4128943",
+   "chars": 5167
   },
   {
    "n": 11,
    "title": "澄衡来人",
    "file": "books/bd5efa7c3/chapters/011.md",
-   "hash": "da4c2313c080",
-   "chars": 4943
+   "hash": "9bb59aa86adc",
+   "chars": 5306
   },
   {
    "n": 12,
    "title": "双面账",
    "file": "books/bd5efa7c3/chapters/012.md",
-   "hash": "722a4eb3bc9a",
-   "chars": 4893
+   "hash": "d44f66c4d392",
+   "chars": 5101
   },
   {
    "n": 13,
    "title": "信托午茶",
    "file": "books/bd5efa7c3/chapters/013.md",
-   "hash": "951684c53af5",
-   "chars": 4927
+   "hash": "b118764d9f6a",
+   "chars": 5066
   },
   {
    "n": 14,
    "title": "药与债",
    "file": "books/bd5efa7c3/chapters/014.md",
-   "hash": "feb8a5a4c3e9",
-   "chars": 4914
+   "hash": "a4263debe5e1",
+   "chars": 5195
   },
   {
    "n": 15,
    "title": "货仓底下",
    "file": "books/bd5efa7c3/chapters/015.md",
-   "hash": "b8c442b8ccc6",
-   "chars": 4898
+   "hash": "312254881a0f",
+   "chars": 4978
   },
   {
    "n": 16,
    "title": "言九的枪",
    "file": "books/bd5efa7c3/chapters/016.md",
-   "hash": "a63812881796",
-   "chars": 4919
+   "hash": "9ba446c8c57e",
+   "chars": 5038
   },
   {
    "n": 17,
    "title": "记忆缺口",
    "file": "books/bd5efa7c3/chapters/017.md",
-   "hash": "4c683f3c0c7a",
-   "chars": 4934
+   "hash": "28367c2ebc28",
+   "chars": 5001
   },
   {
    "n": 18,
    "title": "山门残影",
    "file": "books/bd5efa7c3/chapters/018.md",
-   "hash": "8bdccf2dac9b",
-   "chars": 4933
+   "hash": "a7d5966650a7",
+   "chars": 5044
   },
   {
    "n": 19,
    "title": "饵",
    "file": "books/bd5efa7c3/chapters/019.md",
-   "hash": "c8be1be02cdf",
-   "chars": 4978
+   "hash": "c590b7696296",
+   "chars": 5011
   },
   {
    "n": 20,
    "title": "班长的后盾",
    "file": "books/bd5efa7c3/chapters/020.md",
-   "hash": "2d1cd42b9799",
-   "chars": 4865
+   "hash": "0b7f487a548d",
+   "chars": 5038
+  },
+  {
+   "n": 21,
+   "title": "顾衡的面子",
+   "file": "books/bd5efa7c3/chapters/021.md",
+   "hash": "33baa1317185",
+   "chars": 5152
+  },
+  {
+   "n": 22,
+   "title": "拍卖双赢",
+   "file": "books/bd5efa7c3/chapters/022.md",
+   "hash": "056c0400f143",
+   "chars": 5751
+  },
+  {
+   "n": 23,
+   "title": "控频纪律",
+   "file": "books/bd5efa7c3/chapters/023.md",
+   "hash": "363745c04eb2",
+   "chars": 5257
+  },
+  {
+   "n": 24,
+   "title": "频率",
+   "file": "books/bd5efa7c3/chapters/024.md",
+   "hash": "2c6cb96f2e66",
+   "chars": 5201
+  },
+  {
+   "n": 25,
+   "title": "藏",
+   "file": "books/bd5efa7c3/chapters/025.md",
+   "hash": "d864d0f5ac9b",
+   "chars": 5298
+  },
+  {
+   "n": 26,
+   "title": "合影",
+   "file": "books/bd5efa7c3/chapters/026.md",
+   "hash": "5ec00299a26b",
+   "chars": 5175
+  },
+  {
+   "n": 27,
+   "title": "传唤",
+   "file": "books/bd5efa7c3/chapters/027.md",
+   "hash": "86b49d855ca6",
+   "chars": 5185
+  },
+  {
+   "n": 28,
+   "title": "三十日",
+   "file": "books/bd5efa7c3/chapters/028.md",
+   "hash": "0e2b215ba1aa",
+   "chars": 5030
+  },
+  {
+   "n": 29,
+   "title": "听潮暗号",
+   "file": "books/bd5efa7c3/chapters/029.md",
+   "hash": "39bd423a3c95",
+   "chars": 5094
+  },
+  {
+   "n": 30,
+   "title": "玉简",
+   "file": "books/bd5efa7c3/chapters/030.md",
+   "hash": "5537e9a4b416",
+   "chars": 5108
   }
  ]
 }

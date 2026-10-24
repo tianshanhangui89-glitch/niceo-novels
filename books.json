@@ -1,16 +1,16 @@
 {
  "version": 1,
- "generated": "2026-10-22T01:04:32+08:00",
+ "generated": "2026-10-24T08:59:49+08:00",
  "books": [
   {
    "id": "bd5efa7c3",
    "title": "异能藏锋",
    "index": "books/bd5efa7c3/index.json",
-   "count": 20,
-   "latest": 20,
-   "latestTitle": "班长的后盾",
-   "updatedAt": "2026-10-22T01:04:32+08:00",
-   "sig": "055945112ac0"
+   "count": 30,
+   "latest": 30,
+   "latestTitle": "玉简",
+   "updatedAt": "2026-10-24T08:59:49+08:00",
+   "sig": "065d0e1a1d74"
   }
  ]
 }
