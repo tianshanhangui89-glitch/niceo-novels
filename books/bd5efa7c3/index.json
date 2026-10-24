@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-25T07:55:57+08:00",
- "sig": "f3140d7c0db7",
+ "updatedAt": "2026-10-25T07:59:50+08:00",
+ "sig": "42e8e4078d12",
  "chapters": [
   {
    "n": 1,
@@ -29,8 +29,8 @@
    "n": 4,
    "title": "班长的烟",
    "file": "books/bd5efa7c3/chapters/004.md",
-   "hash": "030b9554ebaa",
-   "chars": 5238
+   "hash": "8dc0c92acac8",
+   "chars": 3967
   },
   {
    "n": 5,
