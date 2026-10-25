@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-25T08:40:39+08:00",
- "sig": "fc75b96a5f92",
+ "updatedAt": "2026-10-25T08:47:07+08:00",
+ "sig": "e53e39417395",
  "chapters": [
   {
    "n": 1,
@@ -15,85 +15,85 @@
    "n": 2,
    "title": "卸力残帧",
    "file": "books/bd5efa7c3/chapters/002.md",
-   "hash": "d7ec7785b665",
-   "chars": 4130
+   "hash": "403b23f80a5e",
+   "chars": 4147
   },
   {
    "n": 3,
    "title": "听雨簃",
    "file": "books/bd5efa7c3/chapters/003.md",
-   "hash": "e019574349c6",
-   "chars": 3825
+   "hash": "bdbbef8134b2",
+   "chars": 3829
   },
   {
    "n": 4,
    "title": "班长的烟",
    "file": "books/bd5efa7c3/chapters/004.md",
-   "hash": "591f3d165167",
-   "chars": 3967
+   "hash": "2b81f8a5df9d",
+   "chars": 3972
   },
   {
    "n": 5,
    "title": "脑压尺子",
    "file": "books/bd5efa7c3/chapters/005.md",
-   "hash": "8c5127437d36",
-   "chars": 3733
+   "hash": "bfd26ddeafcc",
+   "chars": 3745
   },
   {
    "n": 6,
    "title": "顾衡砸场",
    "file": "books/bd5efa7c3/chapters/006.md",
-   "hash": "c93d5e3866c9",
+   "hash": "275ca8654533",
    "chars": 4324
   },
   {
    "n": 7,
    "title": "不打的打",
    "file": "books/bd5efa7c3/chapters/007.md",
-   "hash": "2bc67c35ca55",
-   "chars": 4496
+   "hash": "d24d6b95f550",
+   "chars": 4509
   },
   {
    "n": 8,
    "title": "灰羽局",
    "file": "books/bd5efa7c3/chapters/008.md",
-   "hash": "8725b9bfe8dd",
+   "hash": "247781747688",
    "chars": 3621
   },
   {
    "n": 9,
    "title": "先活着",
    "file": "books/bd5efa7c3/chapters/009.md",
-   "hash": "376716f7eefd",
-   "chars": 3984
+   "hash": "5f72697ca8d8",
+   "chars": 3975
   },
   {
    "n": 10,
    "title": "质针",
    "file": "books/bd5efa7c3/chapters/010.md",
-   "hash": "06661130ff95",
-   "chars": 3912
+   "hash": "928453944198",
+   "chars": 3916
   },
   {
    "n": 11,
    "title": "澄衡来人",
    "file": "books/bd5efa7c3/chapters/011.md",
-   "hash": "921eba5a75e1",
-   "chars": 3375
+   "hash": "12a7ec3edccb",
+   "chars": 3395
   },
   {
    "n": 12,
    "title": "双面账",
    "file": "books/bd5efa7c3/chapters/012.md",
-   "hash": "95b607abba14",
-   "chars": 3544
+   "hash": "a069898d775d",
+   "chars": 3546
   },
   {
    "n": 13,
    "title": "信托午茶",
    "file": "books/bd5efa7c3/chapters/013.md",
-   "hash": "458bb7b2e6cc",
-   "chars": 3833
+   "hash": "eecf5a3a13a8",
+   "chars": 3839
   },
   {
    "n": 14,
