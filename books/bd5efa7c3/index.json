@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-25T08:19:34+08:00",
- "sig": "214bdcc121a5",
+ "updatedAt": "2026-10-25T08:23:36+08:00",
+ "sig": "5127c8f8932a",
  "chapters": [
   {
    "n": 1,
@@ -69,10 +69,10 @@
   },
   {
    "n": 10,
-   "title": "羽针",
+   "title": "质针",
    "file": "books/bd5efa7c3/chapters/010.md",
-   "hash": "f26f903c43ab",
-   "chars": 5694
+   "hash": "06661130ff95",
+   "chars": 3912
   },
   {
    "n": 11,
