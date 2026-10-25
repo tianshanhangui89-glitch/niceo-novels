@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-25T09:49:03+08:00",
- "sig": "c639f897f2e1",
+ "updatedAt": "2026-10-25T09:52:44+08:00",
+ "sig": "1341fe29ef27",
  "chapters": [
   {
    "n": 1,
@@ -43,8 +43,8 @@
    "n": 6,
    "title": "顾衡砸场",
    "file": "books/bd5efa7c3/chapters/006.md",
-   "hash": "275ca8654533",
-   "chars": 4324
+   "hash": "b32f3d54308f",
+   "chars": 4322
   },
   {
    "n": 7,
