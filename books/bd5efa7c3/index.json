@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-25T17:58:18+08:00",
- "sig": "b5acb5f27d64",
+ "updatedAt": "2026-10-25T18:03:47+08:00",
+ "sig": "5390258a5c8b",
  "chapters": [
   {
    "n": 1,
@@ -57,8 +57,8 @@
    "n": 8,
    "title": "灰羽局",
    "file": "books/bd5efa7c3/chapters/008.md",
-   "hash": "f3cae615f743",
-   "chars": 4151
+   "hash": "8407b7f20663",
+   "chars": 4816
   },
   {
    "n": 9,
