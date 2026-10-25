@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-25T19:34:27+08:00",
- "sig": "a0c8e4d12f1b",
+ "updatedAt": "2026-10-25T19:37:58+08:00",
+ "sig": "b07babe32347",
  "chapters": [
   {
    "n": 1,
@@ -162,8 +162,8 @@
    "n": 23,
    "title": "控频纪律",
    "file": "books/bd5efa7c3/chapters/023.md",
-   "hash": "6272d510c01c",
-   "chars": 5651
+   "hash": "711bd7635610",
+   "chars": 4598
   },
   {
    "n": 24,
