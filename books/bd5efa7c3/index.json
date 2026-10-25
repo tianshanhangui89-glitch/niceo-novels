@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-25T18:58:47+08:00",
- "sig": "b2208f94fb8d",
+ "updatedAt": "2026-10-25T19:06:39+08:00",
+ "sig": "8792cc353e52",
  "chapters": [
   {
    "n": 1,
@@ -120,8 +120,8 @@
    "n": 17,
    "title": "记忆缺口",
    "file": "books/bd5efa7c3/chapters/017.md",
-   "hash": "6420063c5635",
-   "chars": 5582
+   "hash": "694e6bd55f9d",
+   "chars": 4931
   },
   {
    "n": 18,
