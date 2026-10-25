@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-25T19:54:05+08:00",
- "sig": "3a7c07f266ad",
+ "updatedAt": "2026-10-25T19:58:06+08:00",
+ "sig": "5774dfeabbe7",
  "chapters": [
   {
    "n": 1,
@@ -183,8 +183,8 @@
    "n": 26,
    "title": "合影",
    "file": "books/bd5efa7c3/chapters/026.md",
-   "hash": "c3c4588920b0",
-   "chars": 5548
+   "hash": "63b0ae9ed35e",
+   "chars": 4519
   },
   {
    "n": 27,
