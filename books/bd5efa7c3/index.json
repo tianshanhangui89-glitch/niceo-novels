@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-25T19:06:39+08:00",
- "sig": "8792cc353e52",
+ "updatedAt": "2026-10-25T19:10:58+08:00",
+ "sig": "3cb131afb08a",
  "chapters": [
   {
    "n": 1,
@@ -127,8 +127,8 @@
    "n": 18,
    "title": "山门残影",
    "file": "books/bd5efa7c3/chapters/018.md",
-   "hash": "e42ee096dd6b",
-   "chars": 5611
+   "hash": "fa213f0a5e75",
+   "chars": 4853
   },
   {
    "n": 19,
