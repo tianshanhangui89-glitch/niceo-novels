@@ -1,8 +1,8 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-25T19:10:58+08:00",
- "sig": "3cb131afb08a",
+ "updatedAt": "2026-10-25T19:14:23+08:00",
+ "sig": "2fc4947993fe",
  "chapters": [
   {
    "n": 1,
@@ -134,8 +134,8 @@
    "n": 19,
    "title": "饵",
    "file": "books/bd5efa7c3/chapters/019.md",
-   "hash": "8da2cd4a0af3",
-   "chars": 5555
+   "hash": "e6971caa72e4",
+   "chars": 4315
   },
   {
    "n": 20,
