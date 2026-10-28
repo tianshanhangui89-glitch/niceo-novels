@@ -1,29 +1,29 @@
 {
  "id": "bd5efa7c3",
  "title": "异能藏锋",
- "updatedAt": "2026-10-28T13:13:59+08:00",
- "sig": "50954b8fc9cc",
+ "updatedAt": "2026-10-28T13:40:38+08:00",
+ "sig": "2194c3dd353f",
  "chapters": [
   {
    "n": 1,
    "title": "见缝",
    "file": "books/bd5efa7c3/chapters/001.md",
-   "hash": "c9f61d52f368",
-   "chars": 5422
+   "hash": "7edf8afb6707",
+   "chars": 5404
   },
   {
    "n": 2,
    "title": "卸力残帧",
    "file": "books/bd5efa7c3/chapters/002.md",
-   "hash": "2ebc019eb5ee",
-   "chars": 4236
+   "hash": "c13272d3175f",
+   "chars": 4255
   },
   {
    "n": 3,
    "title": "听雨簃",
    "file": "books/bd5efa7c3/chapters/003.md",
-   "hash": "2160b8ceb5e1",
-   "chars": 5635
+   "hash": "85272d1dd77a",
+   "chars": 5644
   },
   {
    "n": 4,
